@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently exploring *Full Stack Web Development*
 
-- 📫 How to reach me *vipulgirhestar@gmail.com*
+- 📫 How to reach me *vc7068318009@gmail.com*
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1cjd_bUS4TM2Z9_SRxF38IZvHmohPcOwV/view?usp=sharing]
   
