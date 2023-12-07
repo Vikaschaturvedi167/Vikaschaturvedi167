@@ -84,18 +84,18 @@ const vikas = {
 
 
 # 📊 GitHub Stats:
-<p><img align="left" height="200" width="350" src="https://github-readme-stats.vercel.app/api/top-langs?username=heyvipul&show_icons=true&locale=en&layout=compact" alt="heyvipul" /></p>
-<p>&nbsp;<img align="center" height="200" width="400" src="https://github-readme-stats.vercel.app/api?username=heyvipul&show_icons=true&locale=en" alt="heyvipul" /></p>
+<p><img align="left" height="200" width="350" src="https://github-readme-stats.vercel.app/api/top-langs?username=Vikaschaturvedi167&show_icons=true&locale=en&layout=compact" alt="heyvipul" /></p>
+<p>&nbsp;<img align="center" height="200" width="400" src="https://github-readme-stats.vercel.app/api?username=Vikaschaturvedi167&show_icons=true&locale=en" alt="Vikaschaturvedi" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=heyvipul&" alt="arjundangi01" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Vikaschaturvedi167&" alt="arjundangi01" /></p>
 
 
 
 ## 🏆 GitHub Trophies
 <p align="left"  >
-  <a href="https://github.com/heyvipul/github-profile-trophy"
+  <a href="https://github.com/Vikaschaturvedi167/github-profile-trophy"
     ><img
-      src="https://github-profile-trophy.vercel.app/?username=heyvipul" 
+      src="https://github-profile-trophy.vercel.app/?username=Vikaschaturvedi167" 
       alt=""
   /></a>
 </p>
