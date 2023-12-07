@@ -41,11 +41,11 @@ const vikas = {
 ```
 
 <h3 align="left">Connect with me:</h3>
-<p align="left"> <a href="https://twitter.com/vipulgirhe" target="blank"><img src="https://img.shields.io/twitter/follow/vipulgirhe?logo=twitter&style=for-the-badge" alt="vipulgirhe" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Vikas167Vikas" target="blank"><img src="https://img.shields.io/twitter/follow/vikaschaturvedi?logo=twitter&style=for-the-badge" alt="vikas" /></a> </p>
 <p align="left">
-<a href="https://twitter.com/vipulgirhe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vipulgirhe" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/vipul girhe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vipul girhe" height="30" width="40" /></a>
-<a href="https://www.instagram.com/heyvipulll___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="heyvipulll" height="30" width="40" /></a>
+<a href="https://twitter.com/Vikas167Vikas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vikas" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/Vikas Chaturvedi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vikas" height="30" width="40" /></a>
+<a href="https://www.instagram.com/the_notoriousone__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vikas" height="30" width="40" /></a>
 </p>
  <br/><br/>
 
