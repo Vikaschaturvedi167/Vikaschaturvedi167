@@ -12,7 +12,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1cjd_bUS4TM2Z9_SRxF38IZvHmohPcOwV/view?usp=sharing]
   
-- Portfolio :  
+- Portfolio : https://vikaschaturvedi167.github.io/ 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me... 
 
